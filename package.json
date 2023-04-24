@@ -1,0 +1,18 @@
+{
+  "name": "nodejstutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "alternative-flavor.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "dev": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
